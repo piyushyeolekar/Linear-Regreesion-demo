@@ -1,2 +1,2 @@
-# Linear-Regreesion-using-SkLearn
+# Linear-Regreesion-demo
 Basic Demonstration of Linear Regression
